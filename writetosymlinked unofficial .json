@@ -1,0 +1,43 @@
+{
+  "name": "writetosymlinked unofficial ",
+  "subtitle": "",
+  "description": "",
+  "iconURL": "https://imgur.com/cy22whi.jpeg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.34306.writetosymlinked"
+  ],
+  "apps": [
+    {
+      "name": "writetosymlinked",
+      "bundleIdentifier": "com.34306.writetosymlinked",
+      "marketplaceID": "10201017",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://altstudio.app/#",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://www.hello.bet",
+          "size": 100000,
+          "version": "1.0",
+          "buildVersion": "100",
+          "date": "2025-06-15T06:02:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
